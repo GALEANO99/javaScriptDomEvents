@@ -1,2 +1,2 @@
 # javaScriptDomEvents
-this repository is a practice of JS to learn about the DOM and events. 
+This repository is used to store DOM activities and events. 
